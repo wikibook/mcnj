@@ -1,0 +1,80 @@
+<상냥한 주디와 함께 홈페이지형 블로그 디자인 만들기>
+
+
+# 1번 메뉴 ( 위젯명 m01 )
+
+<img src="https://blogfiles.pstatic.net/MjAyMTAyMTRfMTg1/MDAxNjEzMjMzMjE1OTYw.a4PGGWwh0qUFpOR9ohOjJeHDExuy_HM2sLcugHgW_Bsg.WiQiQ2CnWpLSb1f7nsx6d07_rHLTKprSCa9a4PPyaMog.PNG.melon104/transp.png?type=w3
+" width="170px" height="160px" usemap="#m01" border="0" />
+
+<map name="m01">
+   <area shape="rect" coords="0,36,170,160" href="https://blog.naver.com/PostList.naver?blogId=anjunara&from=postList&categoryNo=2&parentCategoryNo=2" target="_top" />
+</map>
+
+
+
+# 2번 메뉴 ( 위젯명 m02 )
+
+<img src="https://blogfiles.pstatic.net/MjAyMTAyMTRfMTg1/MDAxNjEzMjMzMjE1OTYw.a4PGGWwh0qUFpOR9ohOjJeHDExuy_HM2sLcugHgW_Bsg.WiQiQ2CnWpLSb1f7nsx6d07_rHLTKprSCa9a4PPyaMog.PNG.melon104/transp.png?type=w3
+" width="170px" height="160px" usemap="#m02" border="0" />
+
+<map name="m02">
+   <area shape="rect" coords="0,36,170,160" href="https://blog.naver.com/PostList.naver?blogId=anjunara&from=postList&categoryNo=10" target="_top" />
+</map>
+
+
+
+# 3번 메뉴 ( 위젯명 m03 )
+
+<img src="https://blogfiles.pstatic.net/MjAyMTAyMTRfMTg1/MDAxNjEzMjMzMjE1OTYw.a4PGGWwh0qUFpOR9ohOjJeHDExuy_HM2sLcugHgW_Bsg.WiQiQ2CnWpLSb1f7nsx6d07_rHLTKprSCa9a4PPyaMog.PNG.melon104/transp.png?type=w3
+" width="170px" height="160px" usemap="#m03" border="0" />
+
+<map name="m03">
+   <area shape="rect" coords="0,36,170,160" href="https://blog.naver.com/PostList.naver?blogId=anjunara&from=postList&categoryNo=11" target="_top" />
+</map>
+
+
+# 4번 메뉴 ( 위젯명 m04 )
+
+<img src="https://blogfiles.pstatic.net/MjAyMTAyMTRfMTg1/MDAxNjEzMjMzMjE1OTYw.a4PGGWwh0qUFpOR9ohOjJeHDExuy_HM2sLcugHgW_Bsg.WiQiQ2CnWpLSb1f7nsx6d07_rHLTKprSCa9a4PPyaMog.PNG.melon104/transp.png?type=w3
+" width="170px" height="160px" usemap="#m04" border="0" />
+
+<map name="m04">
+   <area shape="rect" coords="0,36,170,160" href="https://blog.naver.com/PostList.naver?blogId=anjunara&from=postList&categoryNo=1" target="_top" />
+</map>
+
+
+
+# 5번 메뉴 ( 위젯명 m05 )
+
+<img src="https://blogfiles.pstatic.net/MjAyMTAyMTRfMTg1/MDAxNjEzMjMzMjE1OTYw.a4PGGWwh0qUFpOR9ohOjJeHDExuy_HM2sLcugHgW_Bsg.WiQiQ2CnWpLSb1f7nsx6d07_rHLTKprSCa9a4PPyaMog.PNG.melon104/transp.png?type=w3
+" width="170px" height="160px" usemap="#m05" border="0" />
+
+<map name="m05">
+   <area shape="rect" coords="0,36,170,160" href="https://www.instagram.com/kindjudy/" target="_blank" />
+</map>
+
+
+
+
+
+미리캔버스 사용법과 위젯이 궁금하시면?
+-------------------------------------------------------
+미리캔버스로 위젯만들기
+https://blog.naver.com/melon104/222146963959
+
+블로그 위젯달기
+https://blog.naver.com/melon104/222024175506
+
+미리캔버스로 투명이미지 만들기 (블로그 서명만들기)
+https://blog.naver.com/melon104/222043597022
+
+미리캔버스로 블로그 썸네일 만들기
+https://blog.naver.com/melon104/222043597022
+
+사진 이미지 배경제거 방법
+https://blog.naver.com/melon104/222036914823
+---------------------------------------------------------
+
+
+
+
